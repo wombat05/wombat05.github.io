@@ -3,5 +3,5 @@ p {font-family: arial;}
 li {font-family: arial; color : dark grey; font-weight: bold; }
 .bigred { color: darkred; font-size: 50pt; font-weight: bold;}
 .goright {float:right;}
-h2 { color : darkred; font-family: arial; font-size: 15pt; }
+h2 { color : blue; font-family: arial; font-size: 15pt; }
 body {background-color: darkgrey}
